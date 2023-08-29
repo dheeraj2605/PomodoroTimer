@@ -1,0 +1,37 @@
+
+
+.back-g{
+  background-color: orange;
+  text-align: center;
+  height: 200px;
+  width: 500px;
+  display: block;
+  
+  margin-left: 450px;
+}
+
+
+.btn{
+  width:80px;
+  background-color:blue;
+   border-radius:3px;
+  height:40px;
+  margin-right: 20px;
+}
+.btn:hover{
+  background-color: green;
+  width: 100px;
+  height: 60px;
+}
+.btn-1{
+  width:80px;
+  background-color:red;
+   border-radius:3px;
+  height:40px;
+  margin-right: 10px;
+}
+.btn-1:hover{
+  background-color: aqua;
+  width: 100px;
+  height: 60px;
+}
